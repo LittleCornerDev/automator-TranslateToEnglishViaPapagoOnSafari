@@ -12,4 +12,4 @@
 - Select/highlight any text.
 - Right-click (`CTRL+click`) to open menu options.
 - Select `Services > Translate to English (via Papago on Safari)`.
-- This will open a [Safari](https://www.google.com/chrome/) pop-up window to [Papago](https://papago.naver.com/), translating the selected text to English. 
+- This will open a [Safari](https://www.apple.com/safari/) pop-up window to [Papago](https://papago.naver.com/), translating the selected text to English. 
