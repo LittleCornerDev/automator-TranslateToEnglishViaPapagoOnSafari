@@ -10,6 +10,6 @@
 ## Usage
 - In your Mac, open any app with text, e.g., a text editor or a web browser.
 - Select/highlight any text.
-- Right-click (`CTRL+click`) to open menu options.
+- Right-click (`CTRL+click`) to open options menu.
 - Select `Services > Translate to English (via Papago on Safari)`.
 - This will open a [Safari](https://www.apple.com/safari/) pop-up window to [Papago](https://papago.naver.com/), translating the selected text to English. 
